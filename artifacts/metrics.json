@@ -1,0 +1,11 @@
+{
+  "alpha": 0.01,
+  "mae": 0.5388763812350571,
+  "rmse": 0.6690267857341907,
+  "r2": 0.6415082631563723,
+  "n_test": 235,
+  "features": [
+    "gdp_per_capita",
+    "healthy_life_expectancy"
+  ]
+}

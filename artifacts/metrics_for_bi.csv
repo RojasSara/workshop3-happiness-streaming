@@ -1,0 +1,2 @@
+alpha,mae,rmse,r2,n_test,features
+0.01,0.5388763812350571,0.6690267857341907,0.6415082631563723,235,"['gdp_per_capita', 'healthy_life_expectancy']"

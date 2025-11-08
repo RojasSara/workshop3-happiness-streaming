@@ -1,0 +1,6 @@
+country,year,region,happiness_score,gdp_per_capita,healthy_life_expectancy,freedom,generosity,dystopia_residual,social_support,perceptions_of_corruption
+0.0,2015,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+0.0,2016,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+0.0,2017,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+0.0,2018,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.00641025641025641
+0.0,2019,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,0.0
